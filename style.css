@@ -146,7 +146,7 @@ body {
   height: 58.125rem;
   position: relative;
   background: paleturquoise;
-  background-image: url("../assets/images/main-banner.jpg");
+  background-image: url("assets/images/main-banner.jpg");
 }
 @media (max-width: 1024px) {
   #banner {
