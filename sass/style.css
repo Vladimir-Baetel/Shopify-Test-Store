@@ -126,6 +126,7 @@ body {
 #header .inner--wrapper .header__navigation {
   grid-column: 1/5;
   grid-row: 2/3;
+  align-items: flex-start;
 }
 @media (max-width: 428px) {
   #header .inner--wrapper .header__navigation {
