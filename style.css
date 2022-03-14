@@ -146,7 +146,7 @@ body {
   height: 58.125rem;
   position: relative;
   background: paleturquoise;
-  background-image: url("../assets/images/main-banner.jpg");
+  background-image: url("assets/images/main-banner.jpg");
 }
 @media (max-width: 1024px) {
   #banner {
@@ -369,22 +369,22 @@ body {
   transition: opacity 250ms;
 }
 #cta-area .inner--wrapper .cta-area__item:nth-child(1) {
-  background-image: url("../assets/images/outwear-thumb.jpg");
+  background-image: url("assets/images/outwear-thumb.jpg");
 }
 #cta-area .inner--wrapper .cta-area__item:nth-child(2) {
-  background-image: url("../assets/images/skis-thumb.jpg");
+  background-image: url("assets/images/skis-thumb.jpg");
 }
 #cta-area .inner--wrapper .cta-area__item:nth-child(3) {
-  background-image: url("../assets/images/knitwear-thumb.jpg");
+  background-image: url("assets/images/knitwear-thumb.jpg");
 }
 #cta-area .inner--wrapper .cta-area__item:nth-child(4) {
-  background-image: url("../assets/images/accessories-thumb.jpg");
+  background-image: url("assets/images/accessories-thumb.jpg");
 }
 #cta-area .inner--wrapper .cta-area__item:nth-child(5) {
-  background-image: url("../assets/images/goggles-thumb.jpg");
+  background-image: url("assets/images/goggles-thumb.jpg");
 }
 #cta-area .inner--wrapper .cta-area__item:nth-child(6) {
-  background-image: url("../assets/images/jackets-thumb.jpg");
+  background-image: url("assets/images/jackets-thumb.jpg");
 }
 #cta-area .inner--wrapper .cta-area__item h3 {
   color: white;

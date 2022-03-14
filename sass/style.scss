@@ -156,7 +156,7 @@ body {
   height: 58.125rem;
   position: relative;
   background: paleturquoise;
-  background-image: url("../assets/images/main-banner.jpg");
+  background-image: url("assets/images/main-banner.jpg");
 
   @media (max-width: 1024px) {
     height: 40rem;
@@ -361,22 +361,22 @@ body {
       }
 
       &:nth-child(1) {
-        background-image: url("../assets/images/outwear-thumb.jpg");
+        background-image: url("assets/images/outwear-thumb.jpg");
       }
       &:nth-child(2) {
-        background-image: url("../assets/images/skis-thumb.jpg");
+        background-image: url("assets/images/skis-thumb.jpg");
       }
       &:nth-child(3) {
-        background-image: url("../assets/images/knitwear-thumb.jpg");
+        background-image: url("assets/images/knitwear-thumb.jpg");
       }
       &:nth-child(4) {
-        background-image: url("../assets/images/accessories-thumb.jpg");
+        background-image: url("assets/images/accessories-thumb.jpg");
       }
       &:nth-child(5) {
-        background-image: url("../assets/images/goggles-thumb.jpg");
+        background-image: url("assets/images/goggles-thumb.jpg");
       }
       &:nth-child(6) {
-        background-image: url("../assets/images/jackets-thumb.jpg");
+        background-image: url("assets/images/jackets-thumb.jpg");
       }
 
       h3 {
